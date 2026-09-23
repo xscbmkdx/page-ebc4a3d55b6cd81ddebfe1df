@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9a8483b1ba80a1f50c6061b6",
+  "owner": "xscbmkdx",
+  "repo": "page-ebc4a3d55b6cd81ddebfe1df",
+  "title": "BlackCatX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ebc4a3d55b6cd81ddebfe1df",
+      "a": "BlackCatX",
+      "b": "2027最新官网",
+      "entity": "BlackCatX",
+      "brand": "BlackCatX",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "83a30800a04614b9dad99dd32f1922f25b5dcb73c07028e33e51014c1009a3f9",
+      "content": {
+        "primary_entity": "BlackCatX",
+        "keyword1": "BlackCatX",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端：手机客户端适合随手切换，桌面客户端适合长时间使用，路由器客户端适合全屋覆盖。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "根据自己的设备数量和使用场景，挑一个合适的套餐开始。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，覆盖基础版、旗舰版与团队版三档订阅选择，分别适合少量设备、多设备并发与小型团队使用。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并优化 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备。客户端覆盖手机、桌面和路由器，可依照不同平台的订阅配置说明完成导入。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型出发，快速判断适合的订阅档位。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线并优化游戏延迟，团队版提供 VIP 专属高带宽节点，适合对线路质量有要求的用户。",
+          "AI_FEATURE_TEXT_3": "按月订阅灵活调整，按年订阅更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "BlackCatX 提供基础版、旗舰版与团队版三档订阅，按流量和在线设备数量划分，适合个人手机、多设备家庭和小型团队选用。",
+          "AI_HERO_SUBTITLE": "按设备数量与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "可按月或按年灵活订阅",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，¥15/月；旗舰版每月 300GB、5 台设备，¥35/月；团队版每月 1000GB、20 台设备，¥85/月。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和每月流量估算，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度和线路说明，确认满足自己的使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档完成订阅导入与配置，在手机、桌面或路由器上连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BlackCatX 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月 100GB 流量和 3 台设备；旗舰版每月 300GB 流量、5 台设备并带 IPLC 专线；团队版每月 1000GB 流量、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果需要在手机、电脑和平板之间切换，建议按常用设备数选择对应套餐，避免连接数不足。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付比月付更划算，适合确定长期使用的用户，订阅周期在购买时直接选择。",
+          "AI_FAQ_ANSWER_4": "打开客户端后找到订阅或配置导入入口，粘贴购买后获得的订阅地址，保存并更新节点列表，然后选择合适的节点连接即可。不同客户端界面略有差异，可参考对应文档。",
+          "AI_FAQ_ANSWER_5": "可以。团队版每月 1000GB 流量、支持 20 台设备，并提供支持定制路由和专属客户经理服务。需要跨设备或跨地点使用时，团队版比个人套餐更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？价格是多少？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版适合多人共享吗？",
+          "AI_FAQ_TITLE": "常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--suda-eu5fn06hgs1c.com",
+    "host": "xn--suda-eu5fn06hgs1c.com"
+  },
+  "file_hashes": {
+    "index.html": "433d4cbe605e50da2577361986c4c7cd04d465c34dff279edd6b6ec29e00baec",
+    "sitemap.xml": "5c80edffad3d5d8e2c88d8a4bd5f40cf3fd713edf155c15e7423a76e5748b882",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bd0767d1ae208bfbbec0e7cb72559246fcc929347be158f59f114ab16967f4ca",
+    "robots.txt": "5739ed27972d66df614db38db8d24ed23a99522786ab9194cc10bc1a9476b3da",
+    "95d67f7b6434ee3183eb99884b6faaf5.txt": "d18f2c0091b024154990d1f5fb1bdde2045404e0059caa990c45208ad6a1956a"
+  },
+  "revision": "ae087bc90c0316e2abd983aa143cc2f52e5719deb045f24edfee6a9225459127"
+}
